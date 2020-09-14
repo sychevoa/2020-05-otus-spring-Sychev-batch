@@ -1,4 +1,4 @@
-package otus.homework.changelogs;
+package otus.homework.testchangelogs;
 
 import com.github.cloudyrock.mongock.ChangeLog;
 import com.github.cloudyrock.mongock.ChangeSet;
