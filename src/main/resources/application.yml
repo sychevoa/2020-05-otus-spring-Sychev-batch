@@ -26,4 +26,4 @@ spring:
 mongock:
   runner-type: InitializingBean
   change-logs-scan-package:
-    - otus.homework.chandgelogs
+    - otus.homework.changelogs

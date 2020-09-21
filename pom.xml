@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>otus.homework</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>spring-Batch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>Spring batch</name>
 	<description>Homework for Otus</description>
 
 	<properties>
@@ -31,6 +31,7 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
+			<version>1.4.200</version>
 		</dependency>
 		<dependency>
 			<groupId>de.flapdoodle.embed</groupId>
